@@ -5,7 +5,8 @@
 * [National Undergraduate Mathematics Olympiad Sylhet Regional (2017-19)](https://github.com/GK-CPP/Documents-File/tree/master/National%20Undergraduate%20Mathematics%20Olympiad%20Sylhet%20Regional%202017%2C2018%2C2019)
 * [Google Code Jam](https://github.com/GK-CPP/Documents-File/tree/master/Google%20Code%20Jam)
 * [ICPCID](https://github.com/GK-CPP/Documents-File/blob/master/Mr.%20Gulam%20Kibria%20Chowdhury%20_%20ICPCID.pdf)
-* [CV](https://github.com/GK-CPP/Documents-File/blob/master/Resume%20_%20Gulam%20_%20Kibria.pdf)
+
+
 
 =============================================== <br> 
 Gulam Kibria Chowdhury <br>
